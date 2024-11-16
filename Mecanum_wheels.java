@@ -16,7 +16,7 @@ import org.firstinspires.ftc.robotcore.external.navigation.CurrentUnit;
 
 @TeleOp(name="goBILDA Robot in 3 Days 24-25", group="Robot")
 //@Disabled
-public class Strafer_wheels extends LinearOpMode {
+public class Mecanum_wheels extends LinearOpMode {
 
     /* Declare OpMode members. */
     public DcMotor  leftFrontDrive   = null; //the left drivetrain motor
